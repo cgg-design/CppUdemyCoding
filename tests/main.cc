@@ -12,10 +12,10 @@ TEST_CASE( "Factorials are computed", "[factorial]" ) {
     REQUIRE( factorial(10) == 3628800 );
 }
 
-// TEST_CASE( "Factorials are computed", "[factorial]" ) {
-//     REQUIRE(  );
+TEST_CASE( "Factorials are computed", "[factorial]" ) {
+    REQUIRE( print_hello_world() == 0 );
     
-// }
+}
 
 TEST_CASE("Comparison checks", "TestEq") {
     REQUIRE(IsEq( 3, 3) == true );

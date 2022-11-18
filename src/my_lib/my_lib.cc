@@ -1,8 +1,9 @@
 #include <iostream>
 
-void print_hello_world()
+int print_hello_world()
 {
     std::cout << "Hello World" << std::endl;
+    return 0;
 }
 
 unsigned int factorial(unsigned int number)

@@ -2,9 +2,10 @@
 
 /**
  * @brief Prints hello world the console.
- *
+ * 
+ * @return int 
  */
-void print_hello_world();
+int print_hello_world();
 
 
 /**
