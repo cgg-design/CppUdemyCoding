@@ -17,4 +17,7 @@ target_link_libraries(${EXECUTABLE_NAME} PUBLIC
     ${CONAN_CXXOPTS}
     )
 
-# target_set_warnings(TARGET ${EXECUTABLE_NAME} ENABLE ON AS_ERROR OFF)
+# Anwendung Warning, enable warning Not as Error
+if (${ENABLE_WARNINGS})
+    target_set_warnings(TARGET ${EXECUTABLE_NAME} ENABLE ON AS_ERROR OFF)
+endif()
