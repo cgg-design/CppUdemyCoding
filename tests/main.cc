@@ -12,7 +12,7 @@ TEST_CASE( "Factorials are computed", "[factorial]" ) {
     REQUIRE( factorial(10) == 3628800 );
 }
 
-TEST_CASE( "Factorials are computed", "[factorial]" ) {
+TEST_CASE( "print hello world", "[HelloWorld]" ) {
     REQUIRE( print_hello_world() == 0 );
     
 }
