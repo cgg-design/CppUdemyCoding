@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['iseq_6',['IsEq',['../my__lib_8cc.html#a71f2b2079b163efe283fdd2507047e6f',1,'my_lib.cc']]]
+  ['factorial_15',['factorial',['../my__lib_8cc.html#aea62baaa1b97041829042603549ad2e1',1,'factorial(unsigned int number):&#160;my_lib.cc'],['../my__lib_8h.html#aea62baaa1b97041829042603549ad2e1',1,'factorial(unsigned int number):&#160;my_lib.cc']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['print_5fhello_5fworld_7',['print_hello_world',['../my__lib_8cc.html#a501e98503bb06e4809928757b9b9a77c',1,'my_lib.cc']]]
+  ['iseq_16',['IsEq',['../my__lib_8cc.html#a71f2b2079b163efe283fdd2507047e6f',1,'IsEq(int a, int b):&#160;my_lib.cc'],['../my__lib_8h.html#a71f2b2079b163efe283fdd2507047e6f',1,'IsEq(int a, int b):&#160;my_lib.cc']]]
 ];
